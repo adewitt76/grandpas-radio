@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/Aaron/Workspace/esp32/grandpas-radio'
+make: Leaving directory 'c:/Users/Aaron/Workspace/esp32/grandpas-radio'
+ 
+C:\Users\Aaron\esp\esp-idf/make/project.mk:114: *** IDF_PATH cannot contain colons. If overriding IDF_PATH on Windows, use MSYS Unix-style /c/dir instead of C:/dir.  Stop.
+
