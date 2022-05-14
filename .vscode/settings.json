@@ -7,6 +7,10 @@
   "files.associations": {
     "task.h": "c",
     "esp_event.h": "c",
-    "esp_event_loop.h": "c"
+    "esp_event_loop.h": "c",
+    "ws2812.h": "c",
+    "app_main.h": "c",
+    "neaacdec.h": "c",
+    "byteswap.h": "c"
   }
 }
